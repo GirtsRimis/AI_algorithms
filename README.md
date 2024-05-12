@@ -1,1 +1,1 @@
-# AI_algorithms
+.ows - file is the full project | .cvs - file is the data set
